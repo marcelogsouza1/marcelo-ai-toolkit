@@ -1,14 +1,12 @@
 # Meu Kit Pessoal de IA — Marcelo Souza
 
-<p align="center">
-  **Produtividade • Dados • Cloud • Inteligência Artificial**
-</p>
+**Produtividade • Dados • Cloud • Inteligência Artificial**
 
 Repositório desenvolvido como entrega do Desafio de Projeto da [Digital Innovation One (DIO)](https://www.dio.me/), com o objetivo de criar um kit pessoal de inteligência artificial, adaptar prompts reutilizáveis e delegar uma tarefa real mantendo a supervisão humana.
 
 O projeto foi personalizado para apoiar minha trajetória profissional e meus estudos nas áreas de Dados, Engenharia de Dados e Computação em Nuvem.
 
-**Minha proposta:** utilizar a inteligência artificial como ferramenta de produtividade, organização e apoio à tomada de decisão, sem abrir mão da validação humana.
+Minha proposta é utilizar a inteligência artificial como ferramenta de produtividade, organização e apoio à tomada de decisão, sem abrir mão da validação humana.
 
 ---
 
@@ -32,12 +30,12 @@ marcelo-ai-toolkit/
 │   └── preparador-inteligente-de-entrevistas.md
 │
 ├── 02-templates/
-│
 ├── 03-checklists/
-│
 ├── 04-skills/
-│
 ├── 05-delegacao-e-automacao/
+│
+├── evidencias/
+│   └── 02-analise-da-vaga-oncoclinicas.png
 │
 └── README.md
 ```
@@ -46,7 +44,7 @@ As pastas originais do kit da DIO foram preservadas. Os dois novos prompts foram
 
 ---
 
-## 1. Minha Tarefa Real
+## 1. Minha tarefa real
 
 ### Análise inteligente de oportunidades na área de tecnologia
 
@@ -64,7 +62,7 @@ Quero tornar minha busca por oportunidades mais estratégica, identificando:
 
 A tarefa também permite utilizar a IA para organizar informações e produzir recomendações que possam ser revisadas antes de qualquer decisão.
 
-## 2. Meus Atalhos
+## 2. Meus atalhos
 
 Adaptei dois modelos de prompts para situações recorrentes da minha trajetória profissional.
 
@@ -75,6 +73,7 @@ Adaptei dois modelos de prompts para situações recorrentes da minha trajetóri
 **Objetivo:** avaliar a compatibilidade entre meu perfil profissional e os requisitos de uma oportunidade de emprego.
 
 **O que ficou fixo:**
+
 - Estrutura de análise.
 - Classificação dos requisitos.
 - Identificação de pontos fortes e lacunas.
@@ -83,6 +82,7 @@ Adaptei dois modelos de prompts para situações recorrentes da minha trajetóri
 - Regras para impedir a criação de informações profissionais falsas.
 
 **O que muda a cada utilização:**
+
 - Descrição da vaga.
 - Empresa e cargo.
 - Requisitos técnicos.
@@ -144,6 +144,7 @@ REGRAS
 **Objetivo:** simular entrevistas de tecnologia e ajudar na preparação de respostas técnicas e comportamentais.
 
 **O que ficou fixo:**
+
 - Identificação das competências exigidas pela vaga.
 - Simulação de perguntas.
 - Avaliação das respostas.
@@ -151,6 +152,7 @@ REGRAS
 - Preparação para explicar a transição de carreira.
 
 **O que muda a cada utilização:**
+
 - Empresa.
 - Cargo.
 - Descrição da oportunidade.
@@ -204,7 +206,9 @@ REGRAS
   e aguarde minha aprovação.
 ```
 
-## 3. Minha Delegação
+---
+
+## 3. Minha delegação
 
 ### Tarefa delegada à inteligência artificial
 
@@ -217,12 +221,14 @@ Analisar uma vaga real de tecnologia e avaliar minha compatibilidade com os requ
 Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando minha primeira oportunidade profissional na área de Dados, Engenharia de Dados ou Cloud.
 
 **Recursos**
-- Perfil profissional e conhecimentos técnicos.
+
+- Informações disponíveis sobre meu perfil profissional e conhecimentos técnicos.
 - Descrição completa da oportunidade.
 - Informações sobre formação e projetos.
 - Conhecimentos em Python, SQL, Excel, Java, bancos de dados e estudos em AWS.
 
 **Limites**
+
 - Não inventar experiências, certificações ou competências.
 - Não enviar candidaturas ou mensagens em meu nome.
 - Não compartilhar informações pessoais ou confidenciais.
@@ -230,6 +236,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando minha pri
 - Solicitar aprovação antes de iniciar a execução.
 
 **Critérios de sucesso**
+
 - Avaliação de compatibilidade com a oportunidade.
 - Classificação dos requisitos.
 - Identificação dos pontos fortes e lacunas.
@@ -238,9 +245,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando minha pri
 
 **Instrução inicial**
 
-Antes de executar a tarefa, apresente um plano de trabalho com as etapas que pretende realizar e aguarde minha aprovação.
+Antes de executar a tarefa, apresentar um plano de trabalho com as etapas que pretende realizar e aguardar minha aprovação.
 
-## 4. O Plano da IA
+## 4. O plano da IA
 
 A primeira resposta da IA foi um plano de execução dividido em sete etapas:
 
@@ -256,13 +263,13 @@ O plano foi revisado e aprovado antes da análise.
 
 Os limites foram mantidos para evitar informações inventadas, candidaturas não autorizadas e alterações indevidas no currículo.
 
-**Evidência:** inserir uma captura de tela da conversa mostrando o plano apresentado pela IA e a aprovação humana.
+---
 
-## 5. O Resultado
+## 5. O resultado
 
 ### Aplicação prática: vaga de Engenheiro(a) de Dados I — Oncoclínicas
 
-Para testar o Analisador Inteligente de Vagas, utilizei uma oportunidade real de Engenheiro(a) de Dados I, localizada em São Paulo, no formato híbrido.
+Para testar o Analisador Inteligente de Vagas, utilizei uma oportunidade real de **Engenheiro(a) de Dados I**, localizada em São Paulo, no formato híbrido.
 
 A descrição da oportunidade apresentava requisitos relacionados a:
 
@@ -274,7 +281,7 @@ A descrição da oportunidade apresentava requisitos relacionados a:
 - Power BI e dashboards.
 - Conhecimento desejável em LLM e Inteligência Artificial.
 
-Após a aprovação do plano, a IA realizou a comparação entre os requisitos da oportunidade e as informações disponíveis sobre meu perfil.
+Após a aprovação do plano, a IA realizou a comparação entre os requisitos da oportunidade e as informações disponíveis sobre meu perfil profissional.
 
 ### Diagnóstico obtido
 
@@ -291,16 +298,34 @@ A compatibilidade estimada foi de **54%**, como indicador orientativo da anális
 | Projetos de BI | Parcialmente atendida |
 | Big Data | Não comprovada |
 
+### Evidência da execução
+
+A captura abaixo registra o relatório gerado durante a análise prática da vaga.
+
+![Análise da vaga Engenheiro(a) de Dados I — Oncoclínicas](evidencias/02-analise-da-vaga-oncoclinicas.png)
+
 ### Principais recomendações
 
 A análise identificou como pontos de desenvolvimento:
 
-1. Modelagem dimensional, incluindo tabelas fato, dimensões e esquema estrela.
-2. SQL avançado, com CTEs, subqueries e Window Functions.
-3. Conceitos de ETL/ELT e qualidade de dados.
-4. Fundamentos de Big Data e Apache Spark.
-5. Power BI, modelagem e DAX.
-6. Aplicações de LLM e IA em processos de dados.
+1. **Modelagem dimensional:** tabelas fato, dimensões e esquema estrela.
+2. **SQL avançado:** CTEs, subqueries e Window Functions.
+3. **ETL/ELT:** processos de integração e qualidade de dados.
+4. **Big Data:** fundamentos e Apache Spark.
+5. **Power BI:** modelagem de dados e DAX.
+6. **LLM e IA:** aplicações de inteligência artificial em processos de dados.
+
+### Plano de preparação de sete dias
+
+| Dia | Atividade |
+|---|---|
+| 1 | Revisão de SQL, JOINs, GROUP BY e consultas |
+| 2 | Python, Pandas e manipulação de dados |
+| 3 | Modelagem dimensional e esquema estrela |
+| 4 | Fundamentos de ETL/ELT e Big Data |
+| 5 | Power BI, dashboards e DAX |
+| 6 | Aplicações de IA e qualidade de dados |
+| 7 | Revisão geral e preparação para entrevista |
 
 ### Conclusão da análise
 
@@ -314,13 +339,15 @@ A análise também reforçou a importância de demonstrar projetos práticos e a
 
 Revisei as classificações e recomendações, considerando meu nível real de conhecimento.
 
+A análise foi realizada com base nas informações de perfil disponíveis e na descrição da vaga. Não foi realizada uma auditoria completa de currículo anexado.
+
 Também observei que conhecimentos adquiridos em cursos e projetos pessoais não devem ser apresentados como experiência profissional.
 
 A decisão final sobre candidatura e desenvolvimento profissional permanece sob minha responsabilidade.
 
-**Evidência:** inserir uma captura de tela do relatório da análise, preferencialmente mostrando a classificação dos requisitos e as recomendações.
+---
 
-## 6. Como Foi para Você
+## 6. Como foi para mim
 
 O desenvolvimento deste projeto ajudou a transformar necessidades da minha rotina profissional em instruções mais claras e reutilizáveis para a inteligência artificial.
 
@@ -334,7 +361,7 @@ O projeto está alinhado ao meu objetivo de ingressar na área de Dados e contin
 
 ---
 
-## 7. Princípios de Uso Responsável
+## 7. Princípios de uso responsável
 
 Durante a utilização dos prompts, considero importantes os seguintes princípios:
 
@@ -345,7 +372,7 @@ Durante a utilização dos prompts, considero importantes os seguintes princípi
 - Preservar a privacidade de pessoas e organizações.
 - Manter a decisão final sob responsabilidade humana.
 
-## 8. Tecnologias e Ferramentas
+## 8. Tecnologias e ferramentas
 
 - **Inteligência Artificial:** ChatGPT.
 - **Versionamento:** Git e GitHub.
@@ -353,7 +380,7 @@ Durante a utilização dos prompts, considero importantes os seguintes princípi
 - **Área de aplicação:** Dados, Engenharia de Dados e Cloud.
 - **Organização:** prompts reutilizáveis e delegação supervisionada.
 
-## 9. Próximas Evoluções
+## 9. Próximas evoluções
 
 Este kit poderá evoluir com novos recursos e aplicações, como:
 
@@ -374,11 +401,10 @@ Formado em Análise e Desenvolvimento de Sistemas | Em transição de carreira p
 
 - [LinkedIn](https://www.linkedin.com/in/marcelogsouza/)
 - [GitHub](https://github.com/marcelogsouza1)
+- [Repositório do projeto](https://github.com/marcelogsouza1/marcelo-ai-toolkit)
 
 ---
 
-<p align="center">
-  **Aprender • Adaptar • Testar • Validar • Evoluir**
-</p>
+**Aprender • Adaptar • Testar • Validar • Evoluir**
 
 Projeto desenvolvido como atividade prática do Desafio de Projeto da Digital Innovation One (DIO).
