@@ -31,6 +31,7 @@ marcelo-ai-toolkit/
 │
 ├── 02-templates/
 ├── 03-checklists/
+│   └── checklist-validacao-respostas-ia.md
 ├── 04-skills/
 ├── 05-delegacao-e-automacao/
 │
