@@ -2,7 +2,7 @@
 
 **Produtividade • Dados • Cloud • Inteligência Artificial**
 
-Repositório desenvolvido como entrega do Desafio de Projeto da [Digital Innovation One (DIO)](https://www.dio.me/), com o objetivo de criar um kit pessoal de inteligência artificial, adaptar prompts reutilizáveis e delegar uma tarefa real mantendo a supervisão humana.
+Repositório desenvolvido como entrega do Desafio de Projeto da Digital Innovation One (DIO), com o objetivo de criar um kit pessoal de inteligência artificial, adaptar prompts reutilizáveis e delegar uma tarefa real mantendo a supervisão humana.
 
 O projeto foi personalizado para apoiar minha trajetória profissional e meus estudos nas áreas de Dados, Engenharia de Dados e Computação em Nuvem.
 
@@ -35,7 +35,10 @@ marcelo-ai-toolkit/
 ├── 05-delegacao-e-automacao/
 │
 ├── evidencias/
-│   └── 02-analise-da-vaga-oncoclinicas.png
+│   ├── .gitkeep
+│   ├── 02-analise-da-vaga-oncoclinicas.png.png
+│   ├── 22222222.png
+│   └── 3333333.png
 │
 └── README.md
 ```
@@ -269,7 +272,7 @@ Os limites foram mantidos para evitar informações inventadas, candidaturas nã
 
 ### Aplicação prática: vaga de Engenheiro(a) de Dados I — Oncoclínicas
 
-Para testar o Analisador Inteligente de Vagas, utilizei uma oportunidade real de **Engenheiro(a) de Dados I**, localizada em São Paulo, no formato híbrido.
+Para testar o Analisador Inteligente de Vagas, utilizei uma oportunidade real de Engenheiro(a) de Dados I, localizada em São Paulo, no formato híbrido.
 
 A descrição da oportunidade apresentava requisitos relacionados a:
 
@@ -285,7 +288,7 @@ Após a aprovação do plano, a IA realizou a comparação entre os requisitos d
 
 ### Diagnóstico obtido
 
-A compatibilidade estimada foi de **54%**, como indicador orientativo da análise, e não como probabilidade de contratação.
+A compatibilidade estimada foi de **54%**, como indicador orientativo da análise, e não como probabilidade de contratação ou métrica científica validada.
 
 | Competência | Avaliação |
 |---|---|
@@ -298,22 +301,28 @@ A compatibilidade estimada foi de **54%**, como indicador orientativo da anális
 | Projetos de BI | Parcialmente atendida |
 | Big Data | Não comprovada |
 
-### Evidência da execução
+### Evidência 1 — Análise da vaga Oncoclínicas
 
-A captura abaixo registra o relatório gerado durante a análise prática da vaga.
+![Análise da vaga Oncoclínicas](evidencias/02-analise-da-vaga-oncoclinicas.png.png)
 
-![Análise da vaga Engenheiro(a) de Dados I — Oncoclínicas](evidencias/02-analise-da-vaga-oncoclinicas.png)
+### Evidência 2 — Registro complementar
+
+![Registro complementar 2](evidencias/22222222.png)
+
+### Evidência 3 — Registro complementar
+
+![Registro complementar 3](evidencias/3333333.png)
 
 ### Principais recomendações
 
 A análise identificou como pontos de desenvolvimento:
 
-1. **Modelagem dimensional:** tabelas fato, dimensões e esquema estrela.
-2. **SQL avançado:** CTEs, subqueries e Window Functions.
-3. **ETL/ELT:** processos de integração e qualidade de dados.
-4. **Big Data:** fundamentos e Apache Spark.
-5. **Power BI:** modelagem de dados e DAX.
-6. **LLM e IA:** aplicações de inteligência artificial em processos de dados.
+1. Modelagem dimensional, incluindo tabelas fato, dimensões e esquema estrela.
+2. SQL avançado, com CTEs, subqueries e Window Functions.
+3. Conceitos de ETL/ELT e qualidade de dados.
+4. Fundamentos de Big Data e Apache Spark.
+5. Power BI, modelagem e DAX.
+6. Aplicações de LLM e IA em processos de dados.
 
 ### Plano de preparação de sete dias
 
@@ -359,8 +368,6 @@ Um dos principais aprendizados foi compreender que a IA não deve ser utilizada 
 
 O projeto está alinhado ao meu objetivo de ingressar na área de Dados e continuar desenvolvendo conhecimentos em Engenharia de Dados, Cloud e Inteligência Artificial.
 
----
-
 ## 7. Princípios de uso responsável
 
 Durante a utilização dos prompts, considero importantes os seguintes princípios:
@@ -374,11 +381,11 @@ Durante a utilização dos prompts, considero importantes os seguintes princípi
 
 ## 8. Tecnologias e ferramentas
 
-- **Inteligência Artificial:** ChatGPT.
-- **Versionamento:** Git e GitHub.
-- **Documentação:** Markdown.
-- **Área de aplicação:** Dados, Engenharia de Dados e Cloud.
-- **Organização:** prompts reutilizáveis e delegação supervisionada.
+- Inteligência Artificial: ChatGPT.
+- Versionamento: Git e GitHub.
+- Documentação: Markdown.
+- Área de aplicação: Dados, Engenharia de Dados e Cloud.
+- Organização: prompts reutilizáveis e delegação supervisionada.
 
 ## 9. Próximas evoluções
 
