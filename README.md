@@ -1,87 +1,384 @@
-# Meu Kit de IA
+# Meu Kit Pessoal de IA — Marcelo Souza
 
-Desafio de Projeto da [DIO](https://dio.me): monte o seu kit de IA para o dia a dia e delegue uma tarefa real, com você no comando.
+<p align="center">
+  **Produtividade • Dados • Cloud • Inteligência Artificial**
+</p>
 
-O kit foi criado pelo Expert Bruno Lima com os prompts, templates, checklists e skills usados nas Aulas. Ele não é uma apostila: abra a pasta que resolve o seu problema, copie o modelo, adapte e use.
+Repositório desenvolvido como entrega do Desafio de Projeto da [Digital Innovation One (DIO)](https://www.dio.me/), com o objetivo de criar um kit pessoal de inteligência artificial, adaptar prompts reutilizáveis e delegar uma tarefa real mantendo a supervisão humana.
 
-**Copie → adapte → teste → confira → melhore**
+O projeto foi personalizado para apoiar minha trajetória profissional e meus estudos nas áreas de Dados, Engenharia de Dados e Computação em Nuvem.
 
-## Como Fazer o Desafio
-
-Você não precisa instalar nada nem saber programar. Tudo acontece no navegador.
-
-1. Clique em **Use this template**, depois em **Create a new repository**. Dê um nome simples, como `meu-kit-de-ia`, deixe **Public** e confirme.
-2. Siga os passos abaixo com uma tarefa real da sua semana.
-3. Preencha a seção [Minha Entrega](#minha-entrega) da sua cópia e entregue o link dela na DIO.
-
-## Os Passos
-
-1. **Escolha uma tarefa real.** Comece pelo trabalho que se repete na sua semana, como preparar uma reunião ou montar um relatório, e não pela ferramenta.
-2. **Pegue um modelo.** Abra a pasta do kit que combina com a sua tarefa. Cada modelo tem um botão de copiar no canto.
-3. **Adapte.** Troque o que está entre colchetes pelo seu contexto, objetivo, dados, limites e formato.
-4. **Teste.** A primeira resposta é um ponto de partida. Ajuste até funcionar para a sua realidade.
-5. **Delegue.** Com o [template de delegação](02-templates/03-delegacao.md), entregue a tarefa à IA. Peça o plano antes de ela começar, acompanhe e valide o resultado.
-6. **Confira.** Provável não é o mesmo que verdadeiro. Revise com o [Pare, Confira, Use](03-checklists/01-pare-confira-use.md) antes de usar.
-
-## O Que Tem no Kit
-
-| Pasta | Para que serve |
-|---|---|
-| [01-prompts](01-prompts) | Pedidos prontos para adaptar: escrita, comunicação, pesquisa, comparação e preparação de reuniões |
-| [02-templates](02-templates) | Estruturas para preencher: bom pedido, pesquisa e decisão, e delegação |
-| [03-checklists](03-checklists) | Revisão de respostas, de textos e de tarefas delegadas |
-| [04-skills](04-skills) | Como criar uma skill, e a Skill Preparador de Reuniões usada nas Aulas |
-| [05-delegacao-e-automacao](05-delegacao-e-automacao) | Gatilhos de automação, supervisão e checkpoints |
-
-## Os Frameworks das Aulas
-
-- **Bom pedido:** contexto + instrução + objetivo + formato. Quanto menos a IA precisa adivinhar, melhor você consegue avaliar a resposta.
-- **Pesquisa e decisão:** pergunta → pesquisa → critérios → comparação → você. Peça fontes quando precisar de informação externa. A decisão final é sua.
-- **Segurança:** pare → confira → use. Valide fatos, números, datas, fontes e contexto.
-- **Atalhos reutilizáveis:** criar → testar → ajustar → salvar. Separe as instruções fixas das informações que mudam a cada uso.
-- **Delegação:** objetivo + contexto + recursos + limites + sucesso. Autonomia funciona melhor quando o resultado esperado está claro.
-- **Supervisão:** definir → delegar → acompanhar → validar. Em tarefas maiores, confira o plano, acompanhe os checkpoints e valide o resultado.
-
-> A IA pode ajudar você a escrever, pesquisar, organizar e executar. A responsabilidade pelo resultado continua sendo sua.
+**Minha proposta:** utilizar a inteligência artificial como ferramenta de produtividade, organização e apoio à tomada de decisão, sem abrir mão da validação humana.
 
 ---
 
-## Minha Entrega
+## Objetivos do projeto
 
-Na sua cópia, abra este README, clique no lápis (**Edit this file**) e role até aqui. Troque cada frase em itálico pelo que você fez e cole o texto dentro dos blocos já prontos. Para pôr um print, é só colar a imagem com Ctrl+V. No fim, clique em **Commit changes**.
+- Criar prompts reutilizáveis para situações reais.
+- Adaptar modelos existentes às minhas necessidades profissionais.
+- Utilizar IA para analisar oportunidades de carreira.
+- Organizar tarefas por meio de instruções claras e critérios de sucesso.
+- Solicitar um plano antes de permitir a execução de uma tarefa.
+- Avaliar criticamente as respostas geradas pela IA.
+- Manter o controle humano sobre decisões e ações externas.
 
-Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal nos textos e nos prints.
-
-### Minha Tarefa Real
-
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
-
-### Meus Atalhos
-
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+## Estrutura do repositório
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+marcelo-ai-toolkit/
+│
+├── 01-prompts/
+│   ├── analisador-inteligente-de-vagas.md
+│   └── preparador-inteligente-de-entrevistas.md
+│
+├── 02-templates/
+│
+├── 03-checklists/
+│
+├── 04-skills/
+│
+├── 05-delegacao-e-automacao/
+│
+└── README.md
 ```
+
+As pastas originais do kit da DIO foram preservadas. Os dois novos prompts foram adicionados à pasta `01-prompts`.
+
+---
+
+## 1. Minha Tarefa Real
+
+### Análise inteligente de oportunidades na área de tecnologia
+
+Escolhi utilizar a IA para analisar vagas de tecnologia e comparar os requisitos das oportunidades com meu perfil profissional.
+
+A tarefa foi escolhida porque estou em transição de carreira para a área de tecnologia, após concluir minha formação em Análise e Desenvolvimento de Sistemas.
+
+Quero tornar minha busca por oportunidades mais estratégica, identificando:
+
+- Requisitos que já fazem parte dos meus conhecimentos.
+- Competências que preciso desenvolver.
+- Pontos fortes que podem ser destacados no currículo.
+- Lacunas técnicas que podem prejudicar minha candidatura.
+- Assuntos prioritários para preparação de entrevistas.
+
+A tarefa também permite utilizar a IA para organizar informações e produzir recomendações que possam ser revisadas antes de qualquer decisão.
+
+## 2. Meus Atalhos
+
+Adaptei dois modelos de prompts para situações recorrentes da minha trajetória profissional.
+
+### Atalho 1 — Analisador Inteligente de Vagas
+
+**Arquivo:** `01-prompts/analisador-inteligente-de-vagas.md`
+
+**Objetivo:** avaliar a compatibilidade entre meu perfil profissional e os requisitos de uma oportunidade de emprego.
+
+**O que ficou fixo:**
+- Estrutura de análise.
+- Classificação dos requisitos.
+- Identificação de pontos fortes e lacunas.
+- Recomendações para o currículo.
+- Plano de preparação de sete dias.
+- Regras para impedir a criação de informações profissionais falsas.
+
+**O que muda a cada utilização:**
+- Descrição da vaga.
+- Empresa e cargo.
+- Requisitos técnicos.
+- Informações específicas da oportunidade.
+
+**Prompt adaptado:**
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+# Prompt: Analisador Inteligente de Vagas
+
+CONTEXTO
+Estou buscando uma oportunidade na área de Dados,
+Engenharia de Dados ou Cloud.
+
+INSTRUÇÃO
+Analise a descrição da vaga e compare os requisitos
+com meu perfil profissional e currículo.
+
+OBJETIVO
+Quero entender minha compatibilidade com a vaga,
+identificar lacunas e saber como me preparar.
+
+PERFIL PROFISSIONAL
+- Formação: Análise e Desenvolvimento de Sistemas.
+- Conhecimentos: Python, SQL, Excel, Power BI básico,
+  Java, bancos de dados, Git e GitHub.
+- Estudos em computação em nuvem e AWS.
+- Experiência profissional: Controlador de Acesso,
+  com experiência em atendimento, controle de
+  informações e rotinas operacionais.
+
+DESCRIÇÃO DA VAGA
+[cole aqui a descrição completa da vaga]
+
+ANÁLISE SOLICITADA
+1. Classifique os requisitos como atendidos,
+   parcialmente atendidos ou não atendidos.
+2. Apresente os pontos fortes do meu perfil.
+3. Identifique as lacunas técnicas e comportamentais.
+4. Sugira melhorias honestas no currículo.
+5. Recomende assuntos para estudar e perguntas
+   prováveis da entrevista.
+6. Monte um plano de preparação de 7 dias.
+
+REGRAS
+- Não invente experiências, certificações ou conhecimentos.
+- Diferencie conhecimentos básicos, intermediários
+  e avançados.
+- Não descarte uma oportunidade apenas porque existem
+  requisitos que ainda preciso desenvolver.
+- Antes de executar a análise, apresente um plano
+  de trabalho e aguarde minha aprovação.
 ```
 
-### Minha Delegação
+### Atalho 2 — Preparador Inteligente de Entrevistas
+
+**Arquivo:** `01-prompts/preparador-inteligente-de-entrevistas.md`
+
+**Objetivo:** simular entrevistas de tecnologia e ajudar na preparação de respostas técnicas e comportamentais.
+
+**O que ficou fixo:**
+- Identificação das competências exigidas pela vaga.
+- Simulação de perguntas.
+- Avaliação das respostas.
+- Sugestões de melhoria.
+- Preparação para explicar a transição de carreira.
+
+**O que muda a cada utilização:**
+- Empresa.
+- Cargo.
+- Descrição da oportunidade.
+- Tecnologias exigidas.
+- Etapa do processo seletivo.
+
+**Prompt adaptado:**
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+# Prompt: Preparador Inteligente de Entrevistas
+
+CONTEXTO
+Estou participando de um processo seletivo
+para uma vaga de tecnologia.
+
+INSTRUÇÃO
+Atue como entrevistador e me prepare para uma
+entrevista real, considerando a descrição da vaga
+e meu perfil profissional.
+
+OBJETIVO
+Quero transmitir segurança, demonstrar meus
+conhecimentos reais e responder de forma natural.
+
+MEU PERFIL
+- Formação em Análise e Desenvolvimento de Sistemas.
+- Conhecimentos em Python, SQL, Excel, Java
+  e bancos de dados.
+- Estudos em AWS e computação em nuvem.
+- Experiência profissional em atendimento,
+  controle de acesso e rotinas operacionais.
+- Estou em transição de carreira para tecnologia.
+
+DADOS DA VAGA
+[cole aqui a descrição da vaga]
+
+MODO DE PREPARAÇÃO
+1. Identifique as competências mais importantes.
+2. Apresente as perguntas mais prováveis.
+3. Faça uma pergunta por vez e aguarde minha resposta.
+4. Avalie minha resposta e indique melhorias.
+5. Simule perguntas técnicas e comportamentais.
+6. Ajude-me a explicar minha transição de carreira.
+
+REGRAS
+- Não invente experiências ou conhecimentos.
+- Use linguagem natural, objetiva e conversacional.
+- Não entregue respostas longas ou decoradas.
+- Considere meu nível real de conhecimento.
+- Antes de iniciar a simulação, apresente um plano
+  e aguarde minha aprovação.
 ```
 
-### O Plano da IA
+## 3. Minha Delegação
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+### Tarefa delegada à inteligência artificial
 
-### O Resultado
+**Objetivo**
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+Analisar uma vaga real de tecnologia e avaliar minha compatibilidade com os requisitos, identificando pontos fortes, lacunas e ações para melhorar minha candidatura.
 
-### Como Foi para Você
+**Contexto**
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando minha primeira oportunidade profissional na área de Dados, Engenharia de Dados ou Cloud.
+
+**Recursos**
+- Perfil profissional e conhecimentos técnicos.
+- Descrição completa da oportunidade.
+- Informações sobre formação e projetos.
+- Conhecimentos em Python, SQL, Excel, Java, bancos de dados e estudos em AWS.
+
+**Limites**
+- Não inventar experiências, certificações ou competências.
+- Não enviar candidaturas ou mensagens em meu nome.
+- Não compartilhar informações pessoais ou confidenciais.
+- Não realizar alterações no currículo sem autorização.
+- Solicitar aprovação antes de iniciar a execução.
+
+**Critérios de sucesso**
+- Avaliação de compatibilidade com a oportunidade.
+- Classificação dos requisitos.
+- Identificação dos pontos fortes e lacunas.
+- Sugestões honestas para o currículo.
+- Plano de preparação de sete dias.
+
+**Instrução inicial**
+
+Antes de executar a tarefa, apresente um plano de trabalho com as etapas que pretende realizar e aguarde minha aprovação.
+
+## 4. O Plano da IA
+
+A primeira resposta da IA foi um plano de execução dividido em sete etapas:
+
+1. Recebimento e conferência dos materiais.
+2. Diagnóstico de compatibilidade.
+3. Avaliação profissional.
+4. Recomendações para melhoria do currículo.
+5. Preparação para o processo seletivo.
+6. Plano de preparação de sete dias.
+7. Relatório final.
+
+O plano foi revisado e aprovado antes da análise.
+
+Os limites foram mantidos para evitar informações inventadas, candidaturas não autorizadas e alterações indevidas no currículo.
+
+**Evidência:** inserir uma captura de tela da conversa mostrando o plano apresentado pela IA e a aprovação humana.
+
+## 5. O Resultado
+
+### Aplicação prática: vaga de Engenheiro(a) de Dados I — Oncoclínicas
+
+Para testar o Analisador Inteligente de Vagas, utilizei uma oportunidade real de Engenheiro(a) de Dados I, localizada em São Paulo, no formato híbrido.
+
+A descrição da oportunidade apresentava requisitos relacionados a:
+
+- SQL e elaboração de queries.
+- Python.
+- Modelagem dimensional de dados.
+- Integração de dados e Big Data.
+- Projetos de Business Intelligence.
+- Power BI e dashboards.
+- Conhecimento desejável em LLM e Inteligência Artificial.
+
+Após a aprovação do plano, a IA realizou a comparação entre os requisitos da oportunidade e as informações disponíveis sobre meu perfil.
+
+### Diagnóstico obtido
+
+A compatibilidade estimada foi de **54%**, como indicador orientativo da análise, e não como probabilidade de contratação.
+
+| Competência | Avaliação |
+|---|---|
+| Formação superior em ADS | Atendida |
+| SQL | Atendida, conforme conhecimento declarado |
+| Python | Atendida, conforme conhecimento declarado |
+| Modelagem dimensional | Não comprovada |
+| Elaboração de queries | Atendida, com necessidade de validar profundidade |
+| LLM e IA | Parcialmente atendida |
+| Projetos de BI | Parcialmente atendida |
+| Big Data | Não comprovada |
+
+### Principais recomendações
+
+A análise identificou como pontos de desenvolvimento:
+
+1. Modelagem dimensional, incluindo tabelas fato, dimensões e esquema estrela.
+2. SQL avançado, com CTEs, subqueries e Window Functions.
+3. Conceitos de ETL/ELT e qualidade de dados.
+4. Fundamentos de Big Data e Apache Spark.
+5. Power BI, modelagem e DAX.
+6. Aplicações de LLM e IA em processos de dados.
+
+### Conclusão da análise
+
+A recomendação foi considerar a candidatura, sem desconsiderar as lacunas identificadas.
+
+Minha formação e meus conhecimentos em Python, SQL e computação em nuvem representam uma base relevante para buscar uma oportunidade de nível inicial.
+
+A análise também reforçou a importância de demonstrar projetos práticos e apresentar minhas competências de maneira honesta.
+
+### Revisão humana
+
+Revisei as classificações e recomendações, considerando meu nível real de conhecimento.
+
+Também observei que conhecimentos adquiridos em cursos e projetos pessoais não devem ser apresentados como experiência profissional.
+
+A decisão final sobre candidatura e desenvolvimento profissional permanece sob minha responsabilidade.
+
+**Evidência:** inserir uma captura de tela do relatório da análise, preferencialmente mostrando a classificação dos requisitos e as recomendações.
+
+## 6. Como Foi para Você
+
+O desenvolvimento deste projeto ajudou a transformar necessidades da minha rotina profissional em instruções mais claras e reutilizáveis para a inteligência artificial.
+
+Aprendi a separar o que deve permanecer fixo em um prompt daquilo que precisa mudar conforme cada situação.
+
+Também pratiquei um fluxo de delegação com planejamento, aprovação, execução e revisão humana.
+
+Um dos principais aprendizados foi compreender que a IA não deve ser utilizada apenas para gerar respostas, mas também para organizar processos, apoiar análises e identificar oportunidades de melhoria.
+
+O projeto está alinhado ao meu objetivo de ingressar na área de Dados e continuar desenvolvendo conhecimentos em Engenharia de Dados, Cloud e Inteligência Artificial.
+
+---
+
+## 7. Princípios de Uso Responsável
+
+Durante a utilização dos prompts, considero importantes os seguintes princípios:
+
+- Revisar fatos, números e informações antes de utilizar as respostas.
+- Não compartilhar senhas, credenciais ou informações confidenciais.
+- Não inventar qualificações ou experiências profissionais.
+- Solicitar aprovação antes de ações externas.
+- Preservar a privacidade de pessoas e organizações.
+- Manter a decisão final sob responsabilidade humana.
+
+## 8. Tecnologias e Ferramentas
+
+- **Inteligência Artificial:** ChatGPT.
+- **Versionamento:** Git e GitHub.
+- **Documentação:** Markdown.
+- **Área de aplicação:** Dados, Engenharia de Dados e Cloud.
+- **Organização:** prompts reutilizáveis e delegação supervisionada.
+
+## 9. Próximas Evoluções
+
+Este kit poderá evoluir com novos recursos e aplicações, como:
+
+- Analisador de currículos.
+- Preparador de entrevistas técnicas para Engenharia de Dados.
+- Assistente para estudos de SQL e Python.
+- Análise de requisitos de vagas de Cloud.
+- Organização de trilhas de aprendizagem.
+- Apoio à documentação de projetos técnicos.
+
+---
+
+## Autor
+
+**Marcelo Souza**
+
+Formado em Análise e Desenvolvimento de Sistemas | Em transição de carreira para Dados e Engenharia de Dados.
+
+- [LinkedIn](https://www.linkedin.com/in/marcelogsouza/)
+- [GitHub](https://github.com/marcelogsouza1)
+
+---
+
+<p align="center">
+  **Aprender • Adaptar • Testar • Validar • Evoluir**
+</p>
+
+Projeto desenvolvido como atividade prática do Desafio de Projeto da Digital Innovation One (DIO).
